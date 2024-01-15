@@ -3,7 +3,6 @@ import 'dart:ui';
 import 'package:dicerolling/homeScreen.dart';
 import 'package:shimmer/shimmer.dart';
 import 'package:flutter/material.dart';
-import 'package:page_transition/page_transition.dart';
 
 class SplashScreen extends StatefulWidget {
   @override
